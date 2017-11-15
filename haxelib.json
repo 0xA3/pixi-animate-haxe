@@ -1,0 +1,22 @@
+{
+	"name": "pixi-animate",
+	"license": "MIT",
+	"classPath": "src",
+	"url" : "https://github.com/0xA3/pixi-animate-haxe",
+	"tags": [
+		"js",
+		"haxe",
+		"pixi",
+		"pixi.js",
+		"pixijs",
+		"extern",
+		"web"
+	],
+	"description": "Externs of pixi-animate for Haxe",
+	"version": "0.0.1",
+	"releasenote": "Initial release",
+	"contributors": ["0xA3"],
+	"dependencies": {
+		"pixijs": ""
+	}
+}
